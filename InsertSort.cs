@@ -49,6 +49,5 @@ namespace Insert_sort
                 array[0] = num;
             }
         }
-
     }
 }
